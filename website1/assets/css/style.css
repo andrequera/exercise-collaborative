@@ -1,3 +1,27 @@
 body{
     background: #BDBDBD;
 }
+
+#image {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#text1 {
+    position: absolute;
+    color:black;
+    font-size: 100px;
+    font-weight: bold;
+    padding-left: 250px;
+    top: 70px;
+}
+#text2 {
+    position: absolute;
+    color:black;
+    font-size: 70px;
+    padding-left: 280px;
+    top: 240px;
+}
+.bg-white{
+    width: 100%;
+} 
